@@ -26,7 +26,7 @@ h1 .text-primary {
 }
 
 .text-primary {
-	color: #808000!important;
+	color: #B0C4DE!important;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -34,19 +34,19 @@ h1 .text-primary {
 }
 
 a {
-	color: #808000;
+	color: #B0C4DE;
 }
 
 a:active, a:focus, a:hover {
-	color: #808000;
+	color: #B0C4DE;
 }
 
 .social-icons a:hover {
-	background-color: #808000;
+	background-color: #B0C4DE;
 }
 
 .dev-icons .list-inline-item i:hover {
-    color: #808000;
+    color: #B0C4DE;
 }
 
 .graph_set {
@@ -64,7 +64,7 @@ a:active, a:focus, a:hover {
 
 .timeline::after {
   content: '';
-  background-color: #808000;
+  background-color: #B0C4DE;
   position: absolute;
   width: 6px;
   top: 0;
@@ -88,7 +88,7 @@ a:active, a:focus, a:hover {
   height: 25px;
   right: -12px;
   background-color: white;
-  border: 4px solid #808000;
+  border: 4px solid #B0C4DE;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
