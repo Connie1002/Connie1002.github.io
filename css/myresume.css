@@ -34,19 +34,19 @@ h1 .text-primary {
 }
 
 a {
-	color: #ff34b3;
+	color: #808000;
 }
 
 a:active, a:focus, a:hover {
-	color: #ff34b3;
+	color: #808000;
 }
 
 .social-icons a:hover {
-	background-color: #ff34b3;
+	background-color: #808000;
 }
 
 .dev-icons .list-inline-item i:hover {
-    color: #ff34b3;
+    color: #808000;
 }
 
 .graph_set {
@@ -64,7 +64,7 @@ a:active, a:focus, a:hover {
 
 .timeline::after {
   content: '';
-  background-color: #ff34b3;
+  background-color: #808000;
   position: absolute;
   width: 6px;
   top: 0;
